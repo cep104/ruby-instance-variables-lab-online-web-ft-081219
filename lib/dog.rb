@@ -6,10 +6,9 @@ class Dog
   def name 
     this_dog_name
   end
-
-end
   
   lassie = Dog.new
 lassie.name = "Lassie"
  
 lassie.name
+end
